@@ -56,3 +56,13 @@ setTimeout(function delayedReload() {
  
  ![图解 HTTP 缓存](http://misc.freemanzhao.top/http-cache.jpg)
  
+ 
+ ## HTTP2 
+ 
+ 
+ ## HTTPS
+ 
+ 
+ 
+ 
+ 
