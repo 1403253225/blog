@@ -37,6 +37,21 @@ setTimeout(function delayedReload() {
 
 ## Http Cache
 
+  强缓存
+  
+    ○ Expires
+    
+    ○ Cache-Control
+    
+    ○ Pragma
+    
+  协商缓存
+  
+    ○ ETag/If-None-Match
+    
+    ○ Last-Modified/If-Modified-Since
+    
+
   [图解 HTTP 缓存](https://www.zoo.team/article/http-cache)
  
  ![图解 HTTP 缓存](http://misc.freemanzhao.top/http-cache.jpg)
