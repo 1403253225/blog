@@ -31,3 +31,13 @@ setTimeout(function delayedReload() {
   
   3. delayedReload函数是闭包，因为它访问到全局变量location，也就是最顶层的函数域。
 </details>
+
+
+
+
+## Http Cache
+
+  [图解 HTTP 缓存](https://www.zoo.team/article/http-cache)
+ 
+ ![图解 HTTP 缓存](http://misc.freemanzhao.top/http-cache.jpg)
+ 
