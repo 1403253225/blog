@@ -62,6 +62,11 @@ setTimeout(function delayedReload() {
  
  ## HTTPS
  
+ ## Promise
+  
+ ## debounce throttle  
+ 
+ 
  
  
  
