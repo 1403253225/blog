@@ -71,6 +71,6 @@ setTimeout(function delayedReload() {
  
   > 当前执行栈执行完毕时会立刻先处理所有微任务队列中的事件, 然后再去宏任务队列中取出一个事件。同一次事件循环中, 微任务永远在宏任务之前执行。
  
- 
+  [彻底搞懂浏览器Event-loop ](https://github.com/YvetteLau/Blog/issues/4)
  
  
